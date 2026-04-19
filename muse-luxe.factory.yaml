@@ -24,8 +24,6 @@ dashboard_import:
 ## Handy if your device has a usb port for the user to add credentials when they first get it.
 #improv_serial:
 
-# Used to pull OTA updates
-http_request:
 
 ota:
   - platform: http_request
